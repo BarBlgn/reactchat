@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactvideochat/static/css/main.3ab35ffc.chunk.css",
-    "main.js": "/reactvideochat/static/js/main.d0d606c3.chunk.js",
-    "main.js.map": "/reactvideochat/static/js/main.d0d606c3.chunk.js.map",
-    "runtime-main.js": "/reactvideochat/static/js/runtime-main.56951982.js",
-    "runtime-main.js.map": "/reactvideochat/static/js/runtime-main.56951982.js.map",
-    "static/js/2.44fc44aa.chunk.js": "/reactvideochat/static/js/2.44fc44aa.chunk.js",
-    "static/js/2.44fc44aa.chunk.js.map": "/reactvideochat/static/js/2.44fc44aa.chunk.js.map",
-    "index.html": "/reactvideochat/index.html",
-    "precache-manifest.4aa3d47e0dc94d5855175ac6b85167ae.js": "/reactvideochat/precache-manifest.4aa3d47e0dc94d5855175ac6b85167ae.js",
-    "service-worker.js": "/reactvideochat/service-worker.js",
-    "static/css/main.3ab35ffc.chunk.css.map": "/reactvideochat/static/css/main.3ab35ffc.chunk.css.map",
-    "static/js/2.44fc44aa.chunk.js.LICENSE.txt": "/reactvideochat/static/js/2.44fc44aa.chunk.js.LICENSE.txt"
+    "main.css": "/ReactVideoChat/static/css/main.3ab35ffc.chunk.css",
+    "main.js": "/ReactVideoChat/static/js/main.becb2417.chunk.js",
+    "main.js.map": "/ReactVideoChat/static/js/main.becb2417.chunk.js.map",
+    "runtime-main.js": "/ReactVideoChat/static/js/runtime-main.2f459d0d.js",
+    "runtime-main.js.map": "/ReactVideoChat/static/js/runtime-main.2f459d0d.js.map",
+    "static/js/2.0728f0a6.chunk.js": "/ReactVideoChat/static/js/2.0728f0a6.chunk.js",
+    "static/js/2.0728f0a6.chunk.js.map": "/ReactVideoChat/static/js/2.0728f0a6.chunk.js.map",
+    "index.html": "/ReactVideoChat/index.html",
+    "precache-manifest.fe29c8ad0f7a7d6d1662c0d174798f21.js": "/ReactVideoChat/precache-manifest.fe29c8ad0f7a7d6d1662c0d174798f21.js",
+    "service-worker.js": "/ReactVideoChat/service-worker.js",
+    "static/css/main.3ab35ffc.chunk.css.map": "/ReactVideoChat/static/css/main.3ab35ffc.chunk.css.map",
+    "static/js/2.0728f0a6.chunk.js.LICENSE.txt": "/ReactVideoChat/static/js/2.0728f0a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56951982.js",
-    "static/js/2.44fc44aa.chunk.js",
+    "static/js/runtime-main.2f459d0d.js",
+    "static/js/2.0728f0a6.chunk.js",
     "static/css/main.3ab35ffc.chunk.css",
-    "static/js/main.d0d606c3.chunk.js"
+    "static/js/main.becb2417.chunk.js"
   ]
 }
